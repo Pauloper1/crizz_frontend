@@ -55,7 +55,7 @@ function TeamForm() {
     };
 
     // const API_URL = 'http://localhost:8000/api';
-    const API_URL = 'https://8253-58-146-118-80.ngrok-free.app/api/api'
+    const API_URL = 'https://8253-58-146-118-80.ngrok-free.app/api'
 
     const handleSubmit = async (e) => {
 
